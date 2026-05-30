@@ -1,6 +1,6 @@
 id = "surpassone-theme"
 name = "SurpassOne"
-version = "0.3.4"
+version = "0.3.5"
 schema_version = 1
 authors = ["UNO Leo <leo.uno@surpassone.com>"]
 description = "A flat, monochrome color theme built on coral tonal hierarchy and grayscale."
